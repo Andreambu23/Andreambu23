@@ -25,3 +25,11 @@ Esse perfil foi criado para que eu possa me apresentar melhor e compartilhar o d
 ![HTML5](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Pequeno trabalho realizado por mim
+[Orbe Soluções](https://www.orbesolucoes.com.br/)
+
+Também realizo trabalhos no ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+com ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
+[CR Móveis Planejados](https://crmoveisplanejados.com.br/)
