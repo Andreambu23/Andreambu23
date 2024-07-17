@@ -33,3 +33,5 @@ Também realizo trabalhos no ![Wordpress](https://img.shields.io/badge/Wordpress
 com ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 [CR Móveis Planejados](https://crmoveisplanejados.com.br/)
+
+![André Silva](https://github-readme-stats.vercel.app/api?username=andreambu23&show_icons=true&theme=dracula)
